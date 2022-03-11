@@ -1,0 +1,2 @@
+Most modern Dataloggers comes with inbuilt RTC module and SD card module to log the sensor data. 
+The Datalogger provided by Adafruit will have two different modules of RTC - (1) DS1307 RTC and (2) PCF8523
